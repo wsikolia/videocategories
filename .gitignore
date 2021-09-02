@@ -1,3 +1,5 @@
+hybrid/data/*
+hybrid/myenv/*
 learnopencv/UCF50/*
 learnopencv/Youtube_Videos/*
 learnopencv/__temp__/
