@@ -5,3 +5,9 @@ learnopencv/__temp__
 learnopencv/Model___Date_Time_2021_09_01__11_59_00___Loss_0.22096087038516998___Accuracy_0.9415624737739563
 learnopencv/myenv/*
 learnopencv/.ipynb_checkpoints/*
+pyimagesearch/.ipynb_checkpoints/*
+pyimagesearch/example_clips
+pyimagesearch/model/*
+pyimagesearch/myenv/*
+pyimagesearch/output/*
+pyimagesearch/Sports-Type-Classifier/*
