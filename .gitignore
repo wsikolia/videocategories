@@ -1,6 +1,9 @@
+hybrid/myenv/*
+hybrid/data/*
 learnopencv/UCF50/*
 learnopencv/Youtube_Videos/*
 learnopencv/__temp__.mp4
-Model___Date_Time_2021_09_01__11_59_00___Loss_0.22096087038516998___Accuracy_0.9415624737739563.h5
+learnopencv/Model___Date_Time_2021_09_01__11_59_00___Loss_0.22096087038516998___Accuracy_0.9415624737739563.h5
 learnopencv/myenv/*
 learnopencv/.ipynb_checkpoints/*
+pyimagesearch/myenv/*
