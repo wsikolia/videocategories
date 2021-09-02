@@ -177,4 +177,4 @@ print("**************************************************************")
 print("[INFO] Training has been completed...")
 
 
-# python train.py --dataset Sports-Type-Classifier/data --model model/activity.model --label-bin output/lb.pickle --epochs 3
+# python train.py --dataset Sports-Type-Classifier/data --model model/activity.model --label-bin output/lb.pickle --epochs 50
