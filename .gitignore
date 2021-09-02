@@ -1,5 +1,5 @@
-hybrid/myenv/*
 hybrid/data/*
+hybrid/myenv/*
 learnopencv/UCF50/*
 learnopencv/Youtube_Videos/*
 learnopencv/__temp__.mp4
@@ -7,3 +7,9 @@ learnopencv/Model___Date_Time_2021_09_01__11_59_00___Loss_0.22096087038516998___
 learnopencv/myenv/*
 learnopencv/.ipynb_checkpoints/*
 pyimagesearch/myenv/*
+pyimagesearch/.ipynb_checkpoints/*
+pyimagesearch/example_clips
+pyimagesearch/model/*
+pyimagesearch/myenv/*
+pyimagesearch/output/*
+pyimagesearch/Sports-Type-Classifier/*
