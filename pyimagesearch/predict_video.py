@@ -21,7 +21,6 @@ ap.add_argument("-s", "--size", type=int, default=128,
 args = vars(ap.parse_args())
 
 
-
 # load the trained model and label binarizer from disk
 print("[INFO] loading model and label binarizer...")
 model = load_model(args["model"])
@@ -97,7 +96,5 @@ while True:
 print("[INFO] cleaning up...")
 writer.release()
 vs.release()
-
-
 
 # python predict_video.py --model model/activity.model --label-bin model/lb.pickle --input example_clips/tennis.mp4 --output output/tennis_1frame.avi --size 1
