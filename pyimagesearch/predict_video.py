@@ -97,4 +97,4 @@ print("[INFO] cleaning up...")
 writer.release()
 vs.release()
 
-# python predict_video.py --model model/activity.model --label-bin model/lb.pickle --input example_clips/tennis.mp4 --output output/tennis_1frame.avi --size 1
+# py predict_video.py --model model/activity.model --label-bin model/lb.pickle --input example_clips/tennis.mp4 --output output/tennis_1frame.avi --size 1
